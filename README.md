@@ -4,7 +4,7 @@ This is a repository for an adapter between RC aperture signals and lego Power F
 
 ### Video
 
-link
+https://youtu.be/bxm3bJ4rm5g
 
 ### Features
 
